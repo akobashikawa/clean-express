@@ -8,8 +8,8 @@ hero:
   tagline: Project documentation
   actions:
     - theme: brand
-      text: Getting started
-      link: /getting-started
+      text: About
+      link: /about
     - theme: brand
       text: Markdown Examples
       link: /markdown-examples
