@@ -61,5 +61,5 @@ typings/
 .next
 
 # vitepress
-.vitepress/dist
-.vitepress/cache
+**/.vitepress/dist
+**/.vitepress/cache
